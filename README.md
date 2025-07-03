@@ -21,16 +21,43 @@
 
 ###
 
-<h1 align="center">안녕하세요 프론트엔드 공예영입니다 👋</h1>
+<h1 align="center">@yeyounging</h1>
 
 ###
 <br>
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 안녕하세요, 프론트엔드 공예영입니다 </h3>
 
 
 ###
 
 <p align="left">주로 React와 Next.js를 사용해 다양한 클라이언트 서비스를 만들고 있어요.<br><br>현재는 초등과외 매칭 서비스 y-edu를 운영중입니다. <br><br>사람과 성장을 좋아합니다.<br>좋은 사람들과 함께 새로운 것을 배우는 것이 좋아요 😆</p>
+<br>
+
+### 📚 개발자 5명과 함께하는 북스터디
+
+<ul>
+  <li>
+    <a href="https://github.com/muhandojeon/Growing-up-together" target="_blank" rel="noopener noreferrer">
+      함께자라기
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/muhandojeon/Effective-Engineer" target="_blank" rel="noopener noreferrer">
+      이펙티브 엔지니어
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/muhandojeon/The-Software-Craftsman" target="_blank" rel="noopener noreferrer">
+      소프트웨어 장인
+    </a>
+  </li>
+   <li>
+    <a href="https://github.com/muhandojeon/Clean-Code" target="_blank" rel="noopener noreferrer">
+      클린 코드
+    </a>
+  </li>
+</ul>
+
 
 ###
 <br>
